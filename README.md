@@ -1,3 +1,3 @@
-deployed site:
+Live Site : https://my-first-react-project-bmi-calculator.netlify.app/
 
-https://endearing-gumption-f773c0.netlify.app
+
